@@ -1,0 +1,6 @@
+﻿  Poker.c
+C:\Users\shelt\source\repos\PA7\PA7\Poker.c(326,12): warning C4098: 'card_sort': 'void' function returning a value
+  main.c
+  Generating Code...
+C:\Users\shelt\source\repos\PA7\PA7\Poker.c(303): warning C4716: 'hand_check': must return a value
+  PA7.vcxproj -> C:\Users\shelt\source\repos\PA7\Debug\PA7.exe
